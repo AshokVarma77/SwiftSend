@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "SwiftSend",
+    "version": "1.0",
+    "description": "Send personalized emails in bulk using your Gmail account directly.",
+    "permissions": [
+        "identity",
+        "scripting"
+    ],
+    "oauth2": {
+        "client_id": "705562488477-m22gsdesn1uph7o11h811i9p3p6r61ds.apps.googleusercontent.com",
+        "scopes": [
+            "https://www.googleapis.com/auth/gmail.send"
+        ]
+    },
+    "icons": {
+        "128": "logo.png"
+    },
+    "action": {
+        "default_icon": "logo.png",
+        "default_title": "Open Bulk Gmail Sender"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}
