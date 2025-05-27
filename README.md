@@ -44,35 +44,35 @@ Whether you're:
 ### 🔹 Step 1 – Enter Inputs
 Fill in the email addresses, names, subject, message, and upload your file.
 
-![Step 1 - Enter Input]([./image%20flow/S1.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S1.png))
+![Step 1 - Enter Input]((./image%20flow/S1.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S1.png))
 
 ---
 
 ### 🔹 Step 2 – Google Sign-In
 Authenticate using your Gmail account to allow SwiftSend to send emails.
 
-![Step 2 - Google Auth]([./image%20flow/S2.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S2.png))
+![Step 2 - Google Auth]((./image%20flow/S2.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S2.png))
 
 ---
 
 ### 🔹 Step 3 – Emails Sent!
 You'll get a confirmation once all emails are successfully sent.
 
-![Step 3 - Confirmation]([./image%20flow/S3.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S3.png))
+![Step 3 - Confirmation]((./image%20flow/S3.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S3.png))
 
 ---
 
 ### 🔹 Step 4 – Final Output
 Each recipient receives a **separate, personalized email** with the attached file.
 
-![Step 4 - Email Output]([./image%20flow/S4.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S4.png))
+![Step 4 - Email Output]((./image%20flow/S4.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S4.png))
 
 ---
 
 ### 🔹 Step 5 – Attachment Preview
 Attachments are included in the sent email as expected.
 
-![Step 5 - Attachment]([./image%20flow/S5.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S5.png))
+![Step 5 - Attachment]((./image%20flow/S5.png](https://github.com/AshokVarma77/SwiftSend/blob/37a6788952710a973879d57c5b79a2b64e5b69c0/ImageFlow/S5.png))
 
 ---
 
