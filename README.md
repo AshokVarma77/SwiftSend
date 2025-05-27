@@ -95,7 +95,7 @@ It will soon be published on the Chrome Web Store after a few final enhancements
 ## 🙌 Author
 
 **Ashok Mudunuri**  
-💼 [LinkedIn](https://www.linkedin.com/in/ashokmudunuri/](https://www.linkedin.com/in/ashok-varma-mudunuri/)  
+💼 [LinkedIn](https://www.linkedin.com/in/ashok-varma-mudunuri/)  
 ✉️ Built to solve my own pain point — and it just works.
 
 ---
